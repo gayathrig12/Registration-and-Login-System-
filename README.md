@@ -3,7 +3,7 @@ This is done using Python with file handling(Excel)
 
 # Step 1 : Registration
 
-Creates and excel file and stores the credentials.
+Creates an excel file and stores the credentials.
 
 Checks if the username already exists. If yes, then creates a unique username.
 
